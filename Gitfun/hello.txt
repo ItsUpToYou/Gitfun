@@ -2,4 +2,7 @@ This is line one.
 Uh, I forgot how to count!
 I am number three
 
-This is line five..
+This is line two.
+This is line three.
+This is line four.
+Line FIFTH
