@@ -1,0 +1,6 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\01.Point\01.Point\bin\Debug\01.Point.exe.config
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\01.Point\01.Point\bin\Debug\01.Point.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\01.Point\01.Point\bin\Debug\01.Point.pdb
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\01.Point\01.Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\01.Point\01.Point\obj\Debug\01.Point.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\01.Point\01.Point\obj\Debug\01.Point.pdb

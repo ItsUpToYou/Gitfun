@@ -1,0 +1,5 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\bin\Debug\02.WordGame.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\bin\Debug\02.WordGame.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\bin\Debug\02.WordGame.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\obj\Debug\02.WordGame.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\obj\Debug\02.WordGame.pdb

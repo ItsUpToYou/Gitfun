@@ -1,0 +1,6 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\bin\Debug\02.WordGame.exe.config
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\bin\Debug\02.WordGame.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\bin\Debug\02.WordGame.pdb
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\obj\Debug\02.WordGame.csprojResolveAssemblyReference.cache
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\obj\Debug\02.WordGame.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\hackbulgaria\02.WordGame\02.WordGame\obj\Debug\02.WordGame.pdb
